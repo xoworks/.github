@@ -1,7 +1,7 @@
 <div align="center">
   <img src="../assets/xoworks-profile.svg" alt="XO_Works Logo" width="100" style="margin-bottom: 8px;">
 
-  <h1 style="border-bottom: none;">XO_Works</h1>
+  <h1>XO_Works</h1>
 
   <p style="margin-bottom: 16px;">if you know, you know</p>
 
